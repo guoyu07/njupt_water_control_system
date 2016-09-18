@@ -1,0 +1,74 @@
+/*app_introduce*/
+
+.body {
+	background-image: url(../imags/bg.jpg);
+    background-size: cover;
+    font-family: SegoeUI,"Microsoft YaHei",微软雅黑,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.whole {
+	padding-top: 65px;
+	padding-left: 198px;
+}
+
+.ico {
+	width: 280px;
+	float: left;
+}
+
+.logo{
+	height: 377px;
+}
+
+.ico h2 {
+	font-size: 18px;
+	padding-left: 30px;
+}
+
+.ico button {
+	margin-top: 20px;
+	margin-left: 24px;
+	font-size: 19px;
+/*	padding-left: 5px;
+	padding-right: 5px;*/
+}
+
+
+.introduce{
+	width: 649px;
+	float: left;
+/*	line-height: 20px;*/
+}
+
+.introduce p{
+	line-height: 26px;
+	padding-top: 10px;
+	font-size: 13px;
+}
+
+.introduce h2{
+	margin-top: 0px;
+	/*font-size: 18px;*/
+}
+
+.introduce span{
+	/*font-size: 18px;*/
+	/*margin-bottom: 15px;*/
+}
+
+.introduce textarea{
+	margin-top: 12px;
+	width: 649px;
+	height: 90px;
+}
+
+.screenshot{
+	/*margin-top: 45px;*/
+	/*width: 900px;*/
+}
+
+.screenshot img{
+	width: 432px;
+	margin-right: 77px;
+}

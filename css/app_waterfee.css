@@ -1,0 +1,63 @@
+/*app_waterfee*/
+
+.whole{
+	margin-top: 47px;
+	/*margin-left: 180px;*/
+}
+
+
+.body {
+	background-image: url(../imags/bg1.jpg);
+    background-size: cover;
+    font-family: SegoeUI,"Microsoft YaHei",微软雅黑,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.motto{
+	padding-left: 115px;
+}
+
+.motto img{
+	width: 570px;
+	height: 73px;
+}
+
+.whole_1{
+	/*padding-top: 105px;*/
+	float: left;
+	padding-left: 180px;
+	width: 635px;
+}
+
+.logo{
+	padding-left: 55px;
+}
+
+.introduce{     
+	line-height: 26px;
+	padding-top: 20px;
+	font-size: 13px;
+}
+
+.fee{
+	width: 354px;
+	float: left;
+	margin-left: 120px;
+}
+
+.pay{
+	margin-top: 75px;
+}
+
+.pic{
+	margin-left: 78px;
+}
+
+.input_control{
+	margin-top: 65px;
+}
+
+.sublim{
+	padding-top: 25px;
+	padding-left: 280px;
+}
